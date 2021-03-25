@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1756 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 157 340 1 2 
+"" 1015 265 0 
+"<subst>" 179 144 1 11 
+"\.+\_" 945 107 1 4 
+"<NB>" 781 39 3 3 6 7 
+"(" 734 42 1 4 
+")" 857 26 1 7 
+"\/jour+j+jour+nuit+matin+midi+soir+coucher+agitation+douleur+h+gel" 805 253 1 1 
+"<<[0-9A-Za-z:\/]>>+<PREP>" 502 186 4 5 7 4 17 
+"\,+\/+\." 351 41 1 11 
+"{S}+<subst>" 530 70 1 18 
+"<NB>" 343 122 3 9 17 23 
+"<<h|demande>>" 876 439 1 1 
+"<<[0-9A-RT-Za-z:\/_ ]>>+<PREP>" 587 430 1 15 
+"{S}+<subst>" 627 491 1 16 
+"$![" 537 426 1 14 
+"$]" 759 427 2 12 13 
+"$![" 483 91 1 10 
+"$]" 612 91 1 8 
+"Posologie \:" 409 483 1 15 
+"\,+\/+\.+\_+<E>" 477 388 1 21 
+"<NB>" 473 296 3 7 1 20 
+"{S}+<subst>" 344 211 1 24 
+"$![" 307 209 1 22 
+"$]" 411 211 1 25 
+"<MOT>+<<:>>+NB+<PREP>" 339 296 2 23 21 
